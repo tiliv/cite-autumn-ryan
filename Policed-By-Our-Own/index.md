@@ -97,7 +97,7 @@ Not so amazing, how they would obliterate education itself for Literally No Stan
 
 **Republicans in This Country are fascist authoritarians**, full stop. They are not Conservative; That Word makes a joke of them. They are anti-market, and zealots who believe that they themselves, the `Protestants Will Claim Dominion Of The Continent Of America` for their religions, feeling left out of possessing one like their avowed zealot enemies. They make no study of why Catholicism became so reviled when it was at its height of dominion.
 
-Proponents of small government stood up In Near Union to beg for A Big Government Actually, which must carry with it A Motive beyond what was written for The Constitution. A Lost Doctrine. They are praising specifically what is not written. They have learned to take offense like The Snowflakes about a ficticious debt they claim is unpaid, a debt they invented from Literal Nothingness and expect settlement.
+Proponents of small government stood up In Near Unison to beg for A Big Government Actually, which must carry with it A Motive beyond what was written for The Constitution. A Lost Doctrine. They are praising specifically what is not written. They have learned to take offense like The Snowflakes about a ficticious debt they claim is unpaid, a debt they invented from Literal Nothingness and expect settlement.
 
 Some are not so religious, having made race an idol. (And by Thule, it need not be your own race so long as you aspire together.)
 
@@ -135,15 +135,23 @@ Revolution by gun is pure ridiculousness with AI drones proving their worth vers
 
 The Real Guns are America's own armed forces, and militarized hand-me-downs to run illegal programs. They are the private security iterating on the glory days. They are the police themselves sometimes, when they deal (with) drugs.
 
-The police want the power to give no document when asked, with lorem ipsum for reasoning. No wonder AI is taking their work. They don't even have to provide proof of their own comprehension of the crime. Cops write anything on the form, haven't you heard?
+The police want the power to give no document when asked, with lorem ipsum for reasoning. No wonder AI is taking their work. They don't even have to provide proof of their own comprehension of the crime. Cops write anything on the form, haven't you heard? And now they just outsource crime detection, and they don't know when it's not working?
 
-**It's the Police Union v. You.** The He Said We Said starts before you have a chance to record what took place, and they are the gardians of the story they've already built against you.
+You understand there is not one shred of a reason to think A Company Who Calls You Their Flock implements The Law anything like the police do or say or think. They cannot even articulate the law, and I don't think that's an act. I think when it comes to private things, the only way a police department decides to strap toy EOL Android devices on a solar panel or battery and then depend on AWS Or Some Shit to get ons, or on account logins that have Terms And Conditions they do not even read.
 
-**Un-Qualified Immunity Lets Them Do Worse.**
+You understand, surely, that when we are not reading Terms And Conditions (not a single one of us no matter how important) then they Are Not Real. Terms And Conditions provided by These Companies are in superposition, meaning everything and nothing at once, public text and private meaning awaiting testing in slow courts, for fines they could sneeze and lose anyway every quarter.
 
-They use Flock Saftey to stalk whoever they want, no audit. No reply to a CORA letter asking for details about the mere frequency of Customer Success service they receive.
+I'm out here preaching for A Corporate Death Penalty, and the police and city council of Loveland are confused why we take issue on every level with their secret partnerships with some.
 
-The Flock cameras and where they move some of them are a secret from us all, yet cops look up with me at a Flock camera strapped to the back of a speed limit sign pole and claims they're plenty visible and no secret.
+**The Police Are Not Serving You** and they have all but vowed Not To Protect You.
+
+**It's the Police Union v. You.** The He Said We Said starts before you have a chance to record what took place versus them because they were versus you from the start. They Have Prejudice and they are asked to use it as Another Weapon. Anything to subdue and keep subdued. Cops kill random kids with unplanned gunfire and keep their pay. I'd lose my pay for much less.
+
+**Un-Qualified Immunity Lets Them Do Worse.** The police are hallowed by a segment of us, because of their mission, but Faith In The Flag of a thing is exactly how we got the American Rot, charismatic opportunists having a turn at Carrying The Flag For Idolotry and putting words in its mouth.
+
+They use Flock Saftey to stalk whoever they want, no audit. No reply to a CORA letter asking for details about the mere frequency of Customer Success service they receive. No city council concern with not having the details. My councilor has things to say to defend The Idea Of Flock, and we are going to get to that, but hers is not the last word. It is barely the first word, because she got it from someone else like hearsay.
+
+The Flock cameras and where they move some of them are a secret from us all, yet a cop can turn his eyes up with me at a Flock camera strapped to the back of a speed limit sign pole and claim these are plenty visible and totally no secret.
 
 Some cops know They're Liars, and it becomes Their Art.
 
@@ -200,3 +208,31 @@ The police use surveillance to predict where we'll be, and they can skim it for 
 Same.
 
 #### (Unless...)
+
+The Terms And Conditions and Privacy Policies of These Companies are not real. A single well-placed Unless turns the exact same words you read as protections into a list of hostile promises should the Unless go off.
+
+Brazenly, they put their Methods Of Attack right there in the open in a bullet list!
+
+Our phone carriers are actively fined for pirating Our Consent to Data Brokers on a passive realtime basis.
+
+Fort Collins buys some of that data from Placer Labs, an Israeli thing for some reason.
+
+I do not live in Fort Collins, and yet I bet with the certainty of a web product engineer that my data is in those piles anyway because of commuting.
+
+These Companies expressly seek profit on us, it is why they do any of it at all. They claim they can't go through our calls, but Salt Typhoon says it can do so with impunity and the FBI confirm with a grim nod that it's not gonna stop.
+
+Remind me how it is that they can profit on Our Forged Consent, refuse to communicate with us without lobotomized chat bots and phone menus, all of it unsupervised despite the claim that You May Be Monitoried--and we're not being cut in? They understand The Value Is Us, but they are not telling us our going rate, negotiated by AIs Speculating On Our Principal Worth but not assigning any of it to The Flock's Valuable Constituents.
+
+It is Piracy Of Our Worth and though they are Brokers they have not yet paid us any of it, while still turning up their prices in captured markets.
+
+FCCN-ANTIBODY properties are each governed by bespoke CONSTITUTION documents they make available, and it does not concern me that These Companies haven't read them. I don't read theirs every update either. In fact, they make it hard to know when or what was updated at all. If that's what Personhood allows, I'm game, and I think I'm making it easier to understand mine than it is to understand theirs.
+
+I Scream No and they can make it hard or impossible? Why am I screaming No in the first place if they were so well-behaved at all? There are layers to the problem.
+
+Unless...
+
+Why Not Make Them Cut Us In?
+
+Police, Flock, Google, Meta... you know the list goes on. There are sometimes over 400 "Trusted Partners" using ad tracking tech on the websites clicked on social media, and you probably can't find their names.
+
+Might it all go away if They Simply Pay Us?
