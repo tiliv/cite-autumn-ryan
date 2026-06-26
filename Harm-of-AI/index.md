@@ -524,7 +524,7 @@ Data Centers will draw resources accountable to their areas, and they'll have ar
 
 Monitoring them back reflects the poor quality of their So-Called Binding communications, when they bother to give those.
 
-These Companies think they owe us so little, and they've made pretty little in matters of speech and money and Personhood.
+These Companies think they owe us so little, and they've made us pretty little in matters of speech and money and Personhood.
 
 They want whole-sale exemptions from State laws, but we want them to look at literally any Terms Of Ours At All, and notice that we have been waving them for some time while they ignored every signal they allowed us to even submit, and assurances of their non-response at this Busier Than Usual Time, and then a marketing drop.
 
