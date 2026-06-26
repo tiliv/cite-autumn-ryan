@@ -512,6 +512,32 @@ I crave a Conservative movement that sees Giantism Companies as insane and so op
 
 After they catch the meta-disease of Fiduciary Responsibilities, what trickles down is the blood of us. They are balancing only their side of the transaction with no reguard for us, the blood blags who make children.
 
+### The Data Centers That Win
+
+Data Centers are building out haphazardly, and they picked a few bad sites. They're also all picking for themselves, instead of noticing the networks they are deciding when things cool and the Data Centers that win are in fact getting what they were owed. It could deplete some areas and send refugees of costly resources from the place they tried not to leave.
+
+The ones that win will be good on their network with other Data Centers. They want to pop up on every corner and they don't see the excess in it. The demand is as roughly assessed by them as their own costs and revenues. There is so much they're still figuring out, that their price quotes of today are Meaningless in empirical fact. They do not know what they can pay or which obligations they'd meet or not if pressures are applied.
+
+Meeting Data Center challenges head on where they happen, convince them to fabricate their own resources with all that money, and Get Off Our Property until they've got a real plan.
+
+Data Centers will draw resources accountable to their areas, and they'll have arrived because they offer everyday assistive Artifical Intelligence Products (AIPs?) to counter their own Brand Experiences while using the web they ruined. It's really cultivated like a garden maze out there, no exits at all while they may monitor you for training and quality purposes from the house window.
+
+Monitoring them back reflects the poor quality of their So-Called Binding communications, when they bother to give those.
+
+These Companies think they owe us so little, and they've made pretty little in matters of speech and money and Personhood.
+
+They want whole-sale exemptions from State laws, but we want them to look at literally any Terms Of Ours At All, and notice that we have been waving them for some time while they ignored every signal they allowed us to even submit, and assurances of their non-response at this Busier Than Usual Time, and then a marketing drop.
+
+If this is what Personhood allows them to do and it is "Binding" to us, I suspect the reverse should work too. I can flout what they say because they design to flout what I say, it's simple like that. I know for a surety I haven't agreed to one word of any "Agreement" the mean company says I did. I've Literally Never Seen It Before. And if I choose to not even look now, then I suppose I still have technically seen it, huh? Isn't that the thing about Consent, is that it is needed and cannot be compelled from me or anyone. You may seek it, but You May~ Not Have It.
+
+Whatever deals they make with the federal side of government (not even The Congress...), they are actually null and avoid without us party to the covenant. Knowing this in the first place is what makes A Real Candidate stand out. I don't care about rank or history actually, and I couldn't think of Two Better Candidates than Laubacher and Boebert to illustrate it so well.
+
+Boebert's Better, I think. I bet she recognizes a breakout fight for what's hers.
+
+Data Centers want State Exemptions while they should be make to look at Anything At All and be accountible to that.
+
+We can win by binding them to Terms And Conditions, and we should plan to reserve our right to change them, because they have most certainly reserved the right to change their commitments.
+
 {% comment %}
 ### Notes
 
