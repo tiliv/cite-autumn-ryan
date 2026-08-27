@@ -137,7 +137,7 @@ I was a progressive in spirit but I promise you I speak your language. Nobody "g
 
 On policy? Babe, let's keep TABOR. Please help your district fight to keep TABOR. We can modify it but don't let these democrats seize our money for elective projects they can't even describe with a yearly budget. Colorado is what it is because of that law.
 
-I once worked on an assembly factor floor making locks for Sargent & Greenleaf, in the heartlands of Kentucky. I met way too many empty nester mothers who were forced into work because federal progressive policy had been turning up the heat on them, For No Reason. Don't let progressives bully your mother into working on a factory floor just to buy groceries like it's an open-book test and they're allowed to take notes.
+I once worked on an assembly factory floor making locks for Sargent & Greenleaf, in the heartlands of Kentucky. I met way too many empty nester mothers who were forced into work because federal progressive policy had been turning up the heat on them, For No Reason. Don't let progressives bully your mother into working on a factory floor just to buy groceries like it's an open-book test and they're allowed to take notes.
 
 The Unitary Executive doesn't like you. That makes me like you. I know these Democrats squawk about everything to hear their own voices and give high-fives, but they prefer you in that seat to someone who bows down to that pedophile.
 
