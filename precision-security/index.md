@@ -420,10 +420,9 @@ I will deliver it to the local address of precision security in person. The cont
 
 > Autumn Ryan/Valenta
 
-{% include iframe.html file="colorado-privacy-act-letter.pdf" center=true
-  overview="A one page letter on plain letterhead. Autumn Ryan / Valenta, care of the Center for Creativity, 200 Mathews Street, Fort Collins, Colorado 80524, to Precision Security of Fort Collins, dated August 31, 2026 and marked delivered by hand. It is headed Colorado Privacy Act, Request for Access, and its five paragraphs are reproduced word for word directly above this embed."
-  height=560
-  caption="The letter as delivered. Its full text is above, in the piece, so nothing in this PDF is only available inside a PDF."
+{% include figure.html file="colorado-privacy-act-letter.png"
+  overview="A one page letter on plain letterhead. Autumn Ryan / Valenta, care of the Center for Creativity, 200 Mathews Street, Fort Collins, Colorado 80524, over 707-633-8446 and autumn@discoverywritten.com. Addressed to Precision Security of Fort Collins, dated August 31, 2026 and marked delivered by hand. It is headed Colorado Privacy Act, Request for Access, and its five paragraphs are the five reproduced word for word directly above this image."
+  caption="The letter as delivered, one page. <a href='./exhibits/colorado-privacy-act-letter.pdf'>The PDF itself is here</a>. Its full text is above, in the piece, so no part of this request is only readable inside a file."
 %}
 
 ### The Agent's Ledger
@@ -498,6 +497,18 @@ than smoothed away`.
 
 `Two agents`, `independently`, `were refused permission to read a log` in `a piece about
 metadata`. `That refusal is still showing`, `because it is still the more honest datum`.
+
+**An embed that would have failed silently.** The letter was first embedded as `an iframe
+pointed at the PDF`. The node's own policy `forbids it`: `frame-src` is declared as
+`YouTube and Udio only`, and `a declared directive does not fall back to default-src`, so
+`the node cannot frame its own documents` — `the letter would have rendered as nothing`,
+`with no error a reader could see`. `A blank rectangle where the evidence goes` is `the
+worst failure available` to a piece like this one.
+
+It is now `a same-origin image`, which `img-src 'self'` allows, `with the PDF one link away`
+and `the full text already in the prose above it`. `Three ways to the same words`, `none of
+which depend on a viewer plugin` or `on a phone that will not render a PDF inline`. `The
+audio was never at risk`: `media-src is undeclared`, so `it inherits default-src 'self'`.
 
 **Applied under Article IV.3**, `commas and the capitals behind them`:
 ~~the piece, A last disclosure~~ → `the piece, a last disclosure`;
