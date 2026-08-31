@@ -1,0 +1,27 @@
+{%- comment -%}
+Piece-local audio exhibit. Deliberately NOT an engine include: the journal engine is a
+vendor dependency and this is one piece's need, not proven capability. It follows the
+sibling pattern of Naked-Authoritarianism/quote.html. If a second piece ever wants it,
+that is the moment to propose it upstream.
+
+Parameters mirror figure.html so the conventions stay one thing: file, overview (the
+accessibility label), caption, and optional location / side / center.
+{%- endcomment -%}
+{%- capture _src -%}
+{{ include.location | default: './exhibits' }}/{{ include.file }}
+{%- endcapture -%}
+{%- assign src = _src | replace: " ", "%20" -%}
+<aside class="audio
+{%- if include.side %} side {{ include.side }}{% endif -%}
+{%- if include.center %} center{% endif -%}
+">
+  <audio
+    controls
+    preload="metadata"
+    src="{{ src }}"
+    title="{{ include.overview }}"
+    aria-label="{{ include.overview }}">
+    <a href="{{ src }}">{{ include.overview }}</a>
+  </audio>
+  <figcaption>{{ include.caption }}</figcaption>
+</aside>
