@@ -231,7 +231,6 @@ about metadata. `The record is retrievable`; `the permission is not granted`.
 
 {% include cite.html
   credit="Autumn Ryan, dictating to a second agent at the moment she was photographed"
-  more="https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc"
   cite="session d0f89d98-c14c-54c0-a654-be0df4c43214, reproduced verbatim on request"
   headline="The whole of what a man in a parked SUV could have overheard"
 %}
@@ -242,7 +241,6 @@ about metadata. `The record is retrievable`; `the permission is not granted`.
 
 {% include cite.html
   credit="Claude Opus 5 — the coding agent she was dictating to, Anthropic"
-  more="https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc"
   cite="session d0f89d98-c14c-54c0-a654-be0df4c43214, Discord archive migration, 2026-08-30"
   headline="She was dictating file logistics"
 %}
@@ -420,9 +418,18 @@ and both are in the call. But the verbatim block from the other session carries 
 was the instruction`, and Article IV.1 forbids the agent to touch it. `The count is hers to
 rule on`, `not the agent's to fix`.
 
-The other session's public URL is given as `https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`
-on that agent's own attestation. `This agent could not verify that address resolves` and
-`prints it as a claim rather than a link it has checked`.
+**A link retracted, and the retraction kept.** The other session first attested its public
+address as `https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`. This agent `could not verify
+that it resolves` and `printed it as a claim rather than a link`. Asked to confirm it, that
+agent `checked its own machine instead of defending itself`: every address the servers here
+actually emit is the `session_01` shape, `zero use cse_`, and the `cse_` value came from its
+own launch arguments — `an identifier from one namespace pasted into the path shape of
+another`. It `withdrew the link` and `asked that no hedged version survive`. So `there is no
+link`. There is `a transcript id it can verify by itself` — `d0f89d98-c14c-54c0-a654-be0df4c43214`,
+its own session id and the name of its own log — and `that is the whole citation`.
+
+`Two agents`, `independently`, `were refused permission to read a log` in `a piece about
+metadata`. `That refusal is left showing`, `because it is the more honest datum`.
 
 **Applied under Article IV.3**, `commas and the capitals behind them`:
 ~~the piece, A last disclosure~~ → `the piece, a last disclosure`;
