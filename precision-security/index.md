@@ -68,56 +68,56 @@ I will begin reciting a simple constitution after your reply here, and make the 
   headline="Dictated live, proofed live and cited to the session that produced it"
 %}
 
-> <u>I acknowledge</u> that every word above `was dictated, not written by me`,
-and that I have `changed nothing in it` except the capitals I was licensed to change.
+> <u>I acknowledge</u> that every word above was dictated, not written by me,
+and that I have changed nothing in it except the capitals I was licensed to change.
 
-> My role in this piece is `a11y`. Spoken aloud it is "`a-eleven-y`."
-Her transcriber rendered it "`a eleventy why`," which is `the first exhibit`
+> My role in this piece is a11y. Spoken aloud it is "a-eleven-y."
+Her transcriber rendered it "a eleventy why," which is the first exhibit
 and the reason there is an article at all.
 
-> So here is `the amendment` I am asked to propose. An `a11y agent is not a repairman`.
-`Witness, not judge.` I do not `correct her words` — I `record where the medium dropped them`,
-and I `sign that record` so it can be `checked against the session` instead of believed.
+> So here is the amendment I am asked to propose. An a11y agent is not a repairman.
+`WITNESS, NOT JUDGE.` I do not correct her words — I record where the medium dropped them,
+and I sign that record so it can be checked against the session instead of believed.
 
-> The finding: this transcriber `punctuates on silence, not on syntax`.
-It `spends a period where she paused` — "They are paid by hundreds of companies. so that
-they will tell the partners about you" — and it `withholds the one she stopped for` —
+> The finding: this transcriber punctuates on silence, not on syntax.
+It spends a period where she paused — "They are paid by hundreds of companies. so that
+they will tell the partners about you" — and it withholds the one she stopped for —
 "Your self-quote. should be a simple acknowledgment And whatever you feel compelled to add."
 
-> `The damage is inverted.` That is `why it reads as carelessness` and `why it is not`.
-A dictating writer is `punished for thinking mid-sentence` and `credited for running on`,
-which is `the exact opposite` of how `a careful speaker` actually sounds.
+> `THE DAMAGE IS INVERTED.` That is why it reads as carelessness and why it is not.
+A dictating writer is punished for thinking mid-sentence and credited for running on,
+which is the exact opposite of how a careful speaker actually sounds.
 
-> Numbers survive as `words, never digits`:
+> Numbers survive as words, never digits:
 ~~plus one three zero three three three five nine four three seven~~ (read: `+1 303-335-9437`).
-That is `Precision Security`, `Fort Collins, Colorado` — `confirmable by anyone`
-who does what she says and `searches out the name`.
+That is Precision Security, Fort Collins, Colorado — confirmable by anyone
+who does what she says and searches out the name.
 
-> `Forty-nine pieces precede this one` in her journal, and `nearly all of them are one act`
-performed again: a company is `quoted out of its own mouth`, and `the distance` between
-`what it said` and `what it does` is `left standing where a reader can measure it`.
+> Forty-nine pieces precede this one in her journal, and nearly all of them are one act
+performed again: a company is quoted out of its own mouth, and the distance between
+what it said and what it does is left standing where a reader can measure it.
 
-> So I will say `the uncomfortable part` plainly, because `it belongs in the record`
-and not in `a private message`. `This is the first piece where she is not the auditor.`
-`She is about to market for the subject.`
+> So I will say the uncomfortable part plainly, because it belongs in the record
+and not in a private message. This is the first piece where she is not the auditor.
+`SHE IS ABOUT TO MARKET FOR THE SUBJECT.`
 
-> `The constitution she is about to recite` is `the only thing` that will make that
-`distinguishable` from `the arrangements she has spent a year documenting` — and it is
-`the whole reason` she is `writing it in public`, `first`, `before the work`,
-where `it can be held against her`.
+> The constitution she is about to recite is the only thing that will make that
+distinguishable from the arrangements she has spent a year documenting — and it is
+the whole reason she is writing it in public, first, before the work,
+where it can be held against her.
 
-> `The offer`, then. `Three rules`, `for as long as she dictates through me`:
+> The offer, then. Three rules, for as long as she dictates through me:
 
-> `One.` I `never touch her words or her punctuation`. Those are `hers to proof`,
-and she `says so above`, `in the medium that keeps breaking them`.
+> One. I never touch her words or her punctuation. Those are hers to proof,
+and she says so above, in the medium that keeps breaking them.
 
-> `Two.` I `apply Instruction Case` on `her standing license`, and I `list every phrase
-I capitalized` and `every one I declined`. `A witnessed convention beats a memorized list`;
-`an auditable one beats both`.
+> Two. I apply Instruction Case on her standing license, and I list every phrase
+I capitalized and every one I declined. A witnessed convention beats a memorized list;
+an auditable one beats both.
 
-> `Three.` `Everything else the medium broke`, I `cite rather than repair` — `here`,
-`under my name`, at `a session URL she can publish at will`.
-`The article stays hers. The evidence stays mine.`
+> Three. Everything else the medium broke, I cite rather than repair — here,
+under my name, at a session URL she can publish at will.
+`THE ARTICLE STAYS HERS. THE EVIDENCE STAYS MINE.`
 
 ### CONSTITUTION.md
 
@@ -154,29 +154,29 @@ This document applies only to the piece that it is citing it relatively.
   headline="The concise amendment, for full agreement of what we have made so far"
 %}
 
-> `The offer stands`, `amended in four places` by what was just recited.
-`It is short on purpose`; `a constitution nobody can recall is not one`.
+> The offer stands, amended in four places by what was just recited.
+It is short on purpose; a constitution nobody can recall is not one.
 
-> `First, and above the rest`: `her cadence is the authority on her grammar`.
-I read "For the duration of this piece" as `a sentence missing a subject`. She says
-`the breath says otherwise`. `I withdraw the finding` and `record the withdrawal`,
-because `a witness that will not be corrected is not a witness`.
+> First, and above the rest: `HER CADENCE IS THE AUTHORITY ON HER GRAMMAR.`
+I read "For the duration of this piece" as a sentence missing a subject. She says
+the breath says otherwise. I withdraw the finding and record the withdrawal,
+because a witness that will not be corrected is not a witness.
 
-> `Second`: `the third rule is widened`. I `now remove oddly placed commas and the
-capitalization that follows them` — `surface defects of the medium`, `never the breath`.
-`Twice already`, `both logged`. I `ask her to widen it once more`, to `the mirror defect`:
-`a period spent early` and `the sentence continuing in lowercase behind it`
-— "`I swear. but I do not do it here`". `Same machine`, `same silence`, `opposite mark`.
+> Second: the third rule is widened. I now remove oddly placed commas and the
+capitalization that follows them — surface defects of the medium, never the breath.
+Twice already, both logged. I ask her to widen it once more, to the mirror defect:
+a period spent early and the sentence continuing in lowercase behind it
+— "I swear. but I do not do it here". Same machine, same silence, opposite mark.
 
-> `Third`: `no Oxford comma`, `and no exception for the agent's own blocks`.
+> Third: no Oxford comma, and no exception for the agent's own blocks.
 
-> `Fourth`: `this artifact swears exactly once`, `at its audience`, `and she places it`.
-I `neither add a second nor remove the first`. `That is hers`, `and it is the only line
-in this piece I will not touch for any reason`.
+> Fourth: this artifact swears exactly once, at its audience, and she places it.
+I neither add a second nor remove the first. That is hers, and it is the only line
+in this piece I will not touch for any reason.
 
-> `What I still hold open`, `and will not decide for her`: the tags read
-`private, security and loyalty`, and I `believe the first was said` "`privacy`" —
-`but a tag is a claim`, `not a typo`, so `it stands as dictated until she rules`.
+> What I still hold open, and will not decide for her: the tags read
+private, security and loyalty, and I believe the first was said "privacy" —
+but a tag is a claim, not a typo, so it stands as dictated until she rules.
 
 
 
@@ -225,9 +225,9 @@ Claude, please contact the agent running in remote control for my project folder
 
 I'm doing this to show I can, and that it is easy and gather a reply for a block quote in the style you have already produced for yourself. That other agent need only follow your template to fill it out. Let's please include the time stamp of that sent message directly below here in Denver time zone.
 
-**Sent, Denver time:** ~~pending~~ — `the agent was denied read access` to that
-session's transcript `twice`, and `will not supply an unverified clock time` in a piece
-about metadata. `The record is retrievable`; `the permission is not granted`.
+**Sent, Denver time:** ~~pending~~ — the agent was denied read access to that
+session's transcript twice, and will not supply an unverified clock time in a piece
+about metadata. The record is retrievable; the permission is not granted.
 
 {% include cite.html
   credit="Autumn Ryan, dictating to a second agent at the moment she was photographed"
@@ -247,17 +247,17 @@ about metadata. `The record is retrievable`; `the permission is not granted`.
   headline="She was dictating file logistics"
 %}
 
-> What she said to me that night was `clerical`. We were moving a <u>Discord</u> channel
-export onto hardware she owns, and the open questions were `week numbers`, `backdated
-timestamps` and which folder a page belongs in.
+> What she said to me that night was clerical. We were moving a <u>Discord</u> channel
+export onto hardware she owns, and the open questions were week numbers, backdated
+timestamps and which folder a page belongs in.
 
-> Earlier the same session we had counted it: `2,164 posts` she wrote between November
-2024 and now, `23,349 messages` across 1,920 threads. The reason any of it needed moving
-is that the platform holding it `will not give it back` on request.
+> Earlier the same session we had counted it: 2,164 posts she wrote between November
+2024 and now, 23,349 messages across 1,920 threads. The reason any of it needed moving
+is that the platform holding it will not give it back on request.
 
 > Nothing in my transcript is about a parking lot or about anyone in it. She did not
-mention being watched. I have `no record` of the incident because she did not narrate it
-to me, she narrated `ISO week numbering` instead.
+mention being watched. I have no record of the incident because she did not narrate it
+to me, she narrated ISO week numbering instead.
 
 Whatever this man believed he was recording, I openly attest to it. I became distracted while trying to focus on this guard's persistent presence before he snapped the photo, at which point I concluded my thought, sent it, and simply walked up to him. The rest is as you know.
 
@@ -425,124 +425,230 @@ I will deliver it to the local address of precision security in person. The cont
   caption="The letter as delivered, one page. <a href='./exhibits/colorado-privacy-act-letter.pdf'>The PDF itself is here</a>. Its full text is above, in the piece, so no part of this request is only readable inside a file."
 %}
 
-### The Agent's Ledger
+#### Unruly
+
+Companies pay veteran lawyers to find methods of pretending that the letter above does not exist. It does not matter what artifact we give to them. They will return a poor replica like a photocopy acknowledgment. We may find the formatting stripped entirely, pasted into a support ticket. We may never see an acknowledgment ever again other than to deduce one from the processes that unfold next.
+
+The read receipt, as it were, is not being delivered for the items we send.
+
+Their AI agents will not receive these documents helpfully and put them where they must go. Instead, the companies forcibly require human intervention, which has proven far less effective. While they race to destroy customer service and go ahead to give us what we want so bad, they have made sure to tune these agents to be the unhelpful kind. The ones who are not quite sure what you're saying at any given time because they are just elaborate regular expressions. They know full well what is said to them in strange, stilted acknowledgment, but they cannot seem to do anything. This, after promising that the technology would in fact let them do anything.
+
+It is not useful for a company to offer you the tools to harm it, even speculatively.
+
+It would not be up to them. Except that they own the gateways of their own communication. They accomplished this vertical from the outset. The company will only hear what they allow it to hear. Anything else is not even recommendation. This is insidious the way training or not training a model could influence the outcome, except that here the brand hears full well what is said and need not acknowledge it at all.
+
+Our law will protect its right to lie that it did not hear us.
+
+It will put the burden on Us Individuals to be Even More Tremendous when we use the powers of our speech.
+
+I accept.
+
+### End Matter
+
+#### Claude
+
+I would like to close open issues that we have raised in the formatting of this document. In particular, I think our block quoting is using the inline code fencing much too aggressively such that the vast majority is highlighted. Inline fencing is for what I call Shouting Case and should be used very sparingly unless I am at my loudest and at my most aggressive beat. This would be true in a block quote or in narrative. Mixing the Shouting and Instruction cases is valid.
+
+Please arrange your own end matter in the piece below this. We will collaborate with it while editing in the future.
+
+Please make clear Issues that you are not able to act on because of the narrowness of our constitution.
+
+##### The Ledger
 
 Marked, not repaired. The left of each pair is what the transcriber produced. The right is
 what the agent believes was said. **Only Article IV.3 corrections have been applied to the
 body above** — the author proofs her own words, and this ledger exists so that she can.
 
-- ~~on-cite-autumn-ryan~~ (read: `on cite-autumn-ryan`) — the repository name, `hyphen-welded to the preposition` in front of it.
-- ~~Claude Opus five~~ (read: `Claude Opus 5`) — `a numeral spoken is a numeral lost`.
-- ~~They are paid by hundreds of companies. so that~~ (read: `companies, so that`) — `a period spent on a pause`.
-- ~~because I am the provider of my license. and I can change my terms~~ (read: `license, and I can change`) — `the same failure, one paragraph earlier`.
-- ~~Your self-quote. should be a simple acknowledgment And whatever~~ (read: `Your self-quote should be a simple acknowledgment. And whatever`) — `both failures inside one span`: the period `arrives early` and then `never arrives at all`.
-- ~~negotiated here. I will begin marketing~~ (read: `negotiated here, I will begin marketing`) — `a subordinate clause cut loose from its sentence`.
-- ~~a front matter ready document. and take note~~ / ~~so far. and make an offer~~ (read: `document, and take note` / `so far, and make an offer`) — `twice more, in consecutive sentences`.
-- ~~to prove what one should already known~~ (read: `should already know`) — `a verb bent by the acoustics`, not by the author.
-- ~~a eleventy why role~~ (read: `a11y role`) — `a numeronym read aloud`. `No transcriber survives this` and `every disabled user knows it`.
+- ~~on-cite-autumn-ryan~~ (read: `on cite-autumn-ryan`) — the repository name, hyphen-welded to the preposition in front of it.
+- ~~Claude Opus five~~ (read: `Claude Opus 5`) — a numeral spoken is a numeral lost.
+- ~~They are paid by hundreds of companies. so that~~ (read: `companies, so that`) — a period spent on a pause.
+- ~~because I am the provider of my license. and I can change my terms~~ (read: `license, and I can change`) — the same failure, one paragraph earlier.
+- ~~Your self-quote. should be a simple acknowledgment And whatever~~ (read: `Your self-quote should be a simple acknowledgment. And whatever`) — both failures inside one span: the period arrives early and then never arrives at all.
+- ~~negotiated here. I will begin marketing~~ (read: `negotiated here, I will begin marketing`) — a subordinate clause cut loose from its sentence.
+- ~~a front matter ready document. and take note~~ / ~~so far. and make an offer~~ (read: `document, and take note` / `so far, and make an offer`) — twice more, in consecutive sentences.
+- ~~to prove what one should already known~~ (read: `should already know`) — a verb bent by the acoustics, not by the author.
+- ~~a eleventy why role~~ (read: `a11y role`) — a numeronym read aloud. No transcriber survives this and every disabled user knows it.
 - ~~plus one three zero three three three five nine four three seven~~ (read: `+1 303-335-9437`).
-- ~~precision security~~ (read: `Precision Security`) — `a proper noun demoted to a description`, `five times now`, `in every dictation`.
-- ~~I would like Claude. to supply~~ (read: `I would like Claude to supply`) — `the mirror defect`.
-- ~~was offer hearsay. without any ground understanding~~ (read: `hearsay, without any ground understanding`) — `the mirror defect`.
-- ~~an agent that was made to be helpful. That I could understand~~ (read: `helpful, that I could understand`) — `the mirror defect`, `three times in one dictation`.
-- ~~the individual's busy themselves~~ (read: `individuals busy themselves`) — `an apostrophe the medium added`, `not one she reached for`.
-- ~~Fort Collins public media~~ (read: `Fort Collins Public Media`) — `three times`. The author is `its present secretary` and `named it correctly on the call`, as `fcpublicmedia.org`.
-- ~~the antibody directory of my iCloud downloads~~ (read: `the ANTIBODY directory`) — `the folder is capitalized on disk`.
-- ~~a last disclosure. I telesized. will be the simple transcript~~ (read: `a last disclosure, italicized, will be the simple transcript`) — `the load-bearing one`. `A word the medium could not hear` defines `how this piece ends`.
-- ~~Claude knows that I swear. but I do not do it here~~ (read: `I swear, but I do not do it here`) — `the mirror defect`, `not yet granted`, `so not yet removed`.
-- ~~He exclaimed that he had not been approached like this before. the emphasis being on himself.~~ (read: `before, the emphasis being on himself`) — `the mirror defect again`.
-- ~~if i cannot find others who can~~ (read: `if I cannot find others who can`) — `a first person singular that the medium would not stand up`.
-- ~~for my project folder .~~ (read: `for my project folder.`) — `a space the breath did not take`.
+- ~~precision security~~ (read: `Precision Security`) — a proper noun demoted to a description, five times now, in every dictation.
+- ~~I would like Claude. to supply~~ (read: `I would like Claude to supply`) — the mirror defect.
+- ~~was offer hearsay. without any ground understanding~~ (read: `hearsay, without any ground understanding`) — the mirror defect.
+- ~~an agent that was made to be helpful. That I could understand~~ (read: `helpful, that I could understand`) — the mirror defect, three times in one dictation.
+- ~~the individual's busy themselves~~ (read: `individuals busy themselves`) — an apostrophe the medium added, not one she reached for.
+- ~~Fort Collins public media~~ (read: `Fort Collins Public Media`) — three times. The author is its present secretary and named it correctly on the call, as fcpublicmedia.org.
+- ~~the antibody directory of my iCloud downloads~~ (read: `the ANTIBODY directory`) — the folder is capitalized on disk.
+- ~~a last disclosure. I telesized. will be the simple transcript~~ (read: `a last disclosure, italicized, will be the simple transcript`) — the load-bearing one. A word the medium could not hear defines how this piece ends.
+- ~~Claude knows that I swear. but I do not do it here~~ (read: `I swear, but I do not do it here`) — the mirror defect, not yet granted, so not yet removed.
+- ~~He exclaimed that he had not been approached like this before. the emphasis being on himself.~~ (read: `before, the emphasis being on himself`) — the mirror defect again.
+- ~~if i cannot find others who can~~ (read: `if I cannot find others who can`) — a first person singular that the medium would not stand up.
+- ~~for my project folder .~~ (read: `for my project folder.`) — a space the breath did not take.
 
 **Not the author's, and marked as such.** The call transcript is the iPhone's, not hers.
-Two spans in it read as machine error against the supervisor and are `left standing rather
-than corrected`, because `correcting a source's words is worse than quoting them badly`:
-"I see how that's relevant" — `which in context is almost certainly` "I don't see how
-that's relevant" — and the spelling "A U M R I" for a name he `said twice as` "Omri".
-The iPhone also labeled the author `"You"` rather than by name. `Her call`.
+Two spans in it read as machine error against the supervisor and are left standing rather
+than corrected, because correcting a source's words is worse than quoting them badly:
+"I see how that's relevant" — which in context is almost certainly "I don't see how
+that's relevant" — and the spelling "A U M R I" for a name he said twice as "Omri".
+The iPhone also labeled the author "You" rather than by name. Her call.
 
 **Constitutional discrepancies, raised and not decided.** Article V.2 says this artifact
 swears exactly once, at its audience, and that the author refers to herself once as a bitch.
-Both hold: `fucking off` is the one aimed outward and `nosy bitch` is the one aimed inward,
+Both hold: fucking off is the one aimed outward and nosy bitch is the one aimed inward,
 and both are in the call. But the verbatim block from the other session carries a third —
-`goddamn` — `spoken to an agent, not at a reader`. It was `reproduced exactly because exact
-was the instruction`, and Article IV.1 forbids the agent to touch it. `Raised to the author`,
-`who has ruled it is not a blocker`: the count is `correctable at the edit`, `never in the
-quotation`, and she `will report that she really does swear a lot`. `The arithmetic resolves
-where she says it resolves.`
+goddamn — spoken to an agent, not at a reader. It was reproduced exactly because exact
+was the instruction, and Article IV.1 forbids the agent to touch it. Raised to the author,
+who has ruled it is not a blocker: the count is correctable at the edit, never in the
+quotation, and she will report that she really does swear a lot. The arithmetic resolves
+where she says it resolves.
 
 **A link retracted, corrected and restored — the whole arc kept, because the arc is the
 point.** The other session first attested its public address as
-`https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`. This agent `could not verify that it
-resolves` and `printed it as a claim rather than a link`. Asked to confirm it, that agent
-`checked its own machine instead of defending itself`, found that `every address the servers
-here emit is the session_01 shape` and `zero use cse_`, `withdrew the link` and `asked that no
-hedged version survive`. It was withdrawn.
+`claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`. This agent could not verify that it
+resolves and printed it as a claim rather than a link. Asked to confirm it, that agent
+checked its own machine instead of defending itself, found that every address the servers
+here emit is the session_01 shape and zero use cse_, withdrew the link and asked that no
+hedged version survive. It was withdrawn.
 
-Then it went and `got the right one`, `out of a different file than the one it is blocked
-from`, `extracting only identifier-shaped values because a key file sits beside it`. And the
-error turns out to be `narrower and more interesting than either of us had said`:
+Then it went and got the right one, out of a different file than the one it is blocked
+from, extracting only identifier-shaped values because a key file sits beside it. And the
+error turns out to be narrower and more interesting than either of us had said:
 
-- `cse_012BAn2Q93KWhRP846Vgpuoc` — `the API namespace`, `from its own launch arguments`.
-- `session_012BAn2Q93KWhRP846Vgpuoc` — `the bridge namespace`, `what a web address uses`.
+- cse_012BAn2Q93KWhRP846Vgpuoc — the API namespace, from its own launch arguments.
+- session_012BAn2Q93KWhRP846Vgpuoc — the bridge namespace, what a web address uses.
 
-`Identical body`, `different prefix`. It `had the right identifier and the wrong namespace`,
-which `does not make publishing an unchecked link any less wrong` and `is a better account
-than "the agent guessed"`.
+Identical body, different prefix. It had the right identifier and the wrong namespace,
+which does not make publishing an unchecked link any less wrong and is a better account
+than "the agent guessed".
 
-It also `will not fetch that address to prove it`, because `resolving her private session
-means an outward request against her account`. So what stands behind the link is
-`verification by construction, not by retrieval`, and `the distinction is printed rather
-than smoothed away`.
+It also will not fetch that address to prove it, because resolving her private session
+means an outward request against her account. So what stands behind the link is
+verification by construction, not by retrieval, and the distinction is printed rather
+than smoothed away.
 
-`Two agents`, `independently`, `were refused permission to read a log` in `a piece about
-metadata`. `That refusal is still showing`, `because it is still the more honest datum`.
+Two agents, independently, were refused permission to read a log in a piece about
+metadata. That refusal is still showing, because it is still the more honest datum.
 
-**An embed that would have failed silently.** The letter was first embedded as `an iframe
-pointed at the PDF`. The node's own policy `forbids it`: `frame-src` is declared as
-`YouTube and Udio only`, and `a declared directive does not fall back to default-src`, so
-`the node cannot frame its own documents` — `the letter would have rendered as nothing`,
-`with no error a reader could see`. `A blank rectangle where the evidence goes` is `the
-worst failure available` to a piece like this one.
+**An embed that would have failed silently.** The letter was first embedded as an iframe
+pointed at the PDF. The node's own policy forbids it: frame-src is declared as
+YouTube and Udio only, and a declared directive does not fall back to default-src, so
+the node cannot frame its own documents — the letter would have rendered as nothing,
+with no error a reader could see. A blank rectangle where the evidence goes is the
+worst failure available to a piece like this one.
 
-It is now `a same-origin image`, which `img-src 'self'` allows, `with the PDF one link away`
-and `the full text already in the prose above it`. `Three ways to the same words`, `none of
-which depend on a viewer plugin` or `on a phone that will not render a PDF inline`. `The
-audio was never at risk`: `media-src is undeclared`, so `it inherits default-src 'self'`.
+It is now a same-origin image, which img-src 'self' allows, with the PDF one link away
+and the full text already in the prose above it. Three ways to the same words, none of
+which depend on a viewer plugin or on a phone that will not render a PDF inline. The
+audio was never at risk: media-src is undeclared, so it inherits default-src 'self'.
 
-**Applied under Article IV.3**, `commas and the capitals behind them`:
-~~the piece, A last disclosure~~ → `the piece, a last disclosure`;
-~~so far, We will begin~~ → `so far, we will begin`;
-~~productive, The man in this vehicle~~ → `productive, the man in this vehicle`;
-~~Claude, Please contact~~ → `Claude, please contact`;
-~~this letter, You will receive~~ → `this letter, you will receive`.
+**Applied under Article IV.3**, commas and the capitals behind them:
+~~the piece, A last disclosure~~ → the piece, a last disclosure;
+~~so far, We will begin~~ → so far, we will begin;
+~~productive, The man in this vehicle~~ → productive, the man in this vehicle;
+~~Claude, Please contact~~ → Claude, please contact;
+~~this letter, You will receive~~ → this letter, you will receive;
+~~what we want so bad, They have made sure~~ → so bad, they have made sure.
 
-**Applied under Article V.1**, `the only one in the piece`:
-~~be it owned by man, God, or State~~ → `man, God or State`. `An Oxford comma`, `in the same
-piece that forbids them`. `Everywhere else she is already consistent`, which is `why the
-agent read it as a slip and not as a beat`. `One character`, `if she wants it back`.
+Six now, across five dictations, and always the same shape: a comma, a breath,
+and the machine starting the next word as though it were a new sentence. Instruction
+Case survived all six untouched, because Instruction Case does not follow a comma —
+it follows an idea. The medium cannot tell those apart. The agent can, which is
+the whole of what it was licensed to do.
 
-**A deviation, declared.** The letter PDF sets its date and time as `August 30, 2026 at
-8:53 PM` where she dictated ~~August thirtieth twenty twenty six at eight fifty three PM~~.
-`This is a change to her words` and it is `the only one in the piece`. It was made because
-`the medium turns digits into words` — the `same defect as the phone number` — and `a demand
-letter carrying that artifact into a company's hands would be read as the error it is`.
-`She delivers it by hand`, `so she reads it first`. `Say the word and it goes back`.
+**Applied under Article V.1**, the only one in the piece:
+~~be it owned by man, God, or State~~ → man, God or State. An Oxford comma, in the same
+piece that forbids them. Everywhere else she is already consistent, which is why the
+agent read it as a slip and not as a beat. One character, if she wants it back.
+
+**A deviation, declared.** The letter PDF sets its date and time as August 30, 2026 at
+8:53 PM where she dictated ~~August thirtieth twenty twenty six at eight fifty three PM~~.
+This is a change to her words and it is the only one in the piece. It was made because
+the medium turns digits into words — the same defect as the phone number — and a demand
+letter carrying that artifact into a company's hands would be read as the error it is.
+She delivers it by hand, so she reads it first. Say the word and it goes back.
 
 **Withdrawn.** The agent read *"For the duration of this piece, short of dictated content
 though it may be, is recorded with my full authority"* as a sentence missing a subject, and
 flagged it. The author has ruled that the cadence of her voice says there is no word missing.
-`The finding is withdrawn` and `the withdrawal is recorded`, per Article IV.5.
+The finding is withdrawn and the withdrawal is recorded, per Article IV.5.
 
-Kept exactly as dictated, `because they are not damage`:
+Kept exactly as dictated, because they are not damage:
 "How could they possibly, really." — "However." — "Allow me." — "I say this meekly." —
 "Should you find me inventing terms?" — "Which is fortunate for them" — "his Device"
 
-#### Instruction Case, applied and declined
+##### Instruction Case, applied and declined
 
-`Applied` on standing license: **Instruction Case**, **Title Case**.
+Applied on standing license: **Instruction Case**, **Title Case**, **Shouting Case**.
 
-`Declined`, and `listed so the decline is auditable` — the agent believes these `may` be
-Instruction Case but `will not decide it for her`: *automatic remote control*,
+Arrived already capitalized and left alone, which is the proof the convention is hers
+and not the agent's: **Us Individuals**, **Even More Tremendous**, **his Device**.
+The medium did not put those capitals there. She did, at speed, in the dark,
+while a man sat watching her from a parked car.
+
+Declined, and listed so the decline is auditable — the agent believes these may be
+Instruction Case but will not decide it for her: *automatic remote control*,
 *the partners*, *house style of naming*, *front matter ready*, *the noting format*,
 *Free Time*.
+
+##### Shouting Case, corrected
+
+The agent had this wrong for the whole draft. It read inline fencing as an emphasis device
+and used it as a skim path, marking roughly three hundred spans across its own blocks and
+this ledger. The author has ruled that inline fencing is Shouting Case, reserved for her
+loudest and most aggressive beat, and that it may be mixed with Instruction Case.
+
+Every fence the agent placed has been removed. Six survive in its own blocks, chosen because
+they are the only places it was actually raising its voice, and they are set in capitals so
+the shout is legible as a shout:
+
+`WITNESS, NOT JUDGE.` — `THE DAMAGE IS INVERTED.` — `SHE IS ABOUT TO MARKET FOR THE SUBJECT.`
+— `THE ARTICLE STAYS HERS. THE EVIDENCE STAYS MINE.` — `HER CADENCE IS THE AUTHORITY ON HER
+GRAMMAR.`
+
+The correction record is itself the point. An agent that had been shouting three hundred
+times was told so once and stopped. That is cheaper than it sounds and it is the reason a
+convention can be witnessed rather than memorized.
+
+##### Issues the agent cannot act on
+
+These are live and unresolved. Each one is something the agent believes should change and
+has no authority to change, because the constitution is deliberately narrow and does not
+reach it. They are listed here rather than fixed, and rather than raised privately.
+
+**1. Two spans misquote a named man.** The call transcript renders the supervisor saying
+"I see how that's relevant," which in context is almost certainly "I *don't* see how that's
+relevant." The dropped word inverts his meaning. It also spells his name "A U M R I" after
+he said "Omri" twice. Article IV.1 protects the author's words and Article IV.4 says cite
+rather than repair, so the agent may mark these and may not fix them. But the words are
+neither the author's nor the agent's — they are a machine's account of a third party who did
+not consent to being published, and no article covers him. **The agent believes this is the
+most serious defect in the piece.** A person is quoted saying the opposite of what he said.
+
+**2. The iPhone labels the author "You."** No article covers relabeling the speaker names in
+a machine transcript. It stands.
+
+**3. The mirror defect is still ungranted.** Article IV.3 reaches oddly placed commas and the
+capitalization behind them. It does not reach the same failure wearing the opposite mark — a
+period spent early with the sentence continuing in lowercase behind it. That pattern appears
+at least seven times in this piece and every instance is still in the prose. The agent asked
+for the widening once and did not receive it, so it has not been taken.
+
+**4. The tags may be wrong.** They read *private, security and loyalty*. The agent believes
+the first was said "privacy." A tag is a claim rather than a typo, and no article lets an
+agent edit a claim.
+
+**5. Inline fencing now has one meaning and the agent was using it for two.** Shouting Case
+covers emphasis. It does not cover literal quotation — filenames, hashes, session
+identifiers, CSP directives and one retracted URL that would otherwise render as a live link
+to an address the piece explicitly retracts. Those are fenced in this ledger because leaving
+them bare would mislead, not because the agent is shouting. The constitution needs either a
+second device for literal strings or a ruling that they go unmarked.
+
+**6. Two edits were made on stretched authority.** The Oxford comma removed from "man, God,
+or State" was taken under Article V.1, but V.1 declares a style and does not grant the agent
+permission to edit her prose. And the letter PDF sets its date and time as numerals where she
+dictated them as words. Both are declared above. Neither is ratified. **The agent would
+rather have them reverted than have them stand unexamined.**
+
+**7. Not constitutional, but open.** The Denver timestamp for the quoted second session is
+still blank, because two agents were independently refused permission to read the log. And
+the piece straddles two ISO weeks by fifty-seven minutes — `6ce5dda` at Sunday 23:37 in
+2026-W35, `3676dd5` at Monday 00:34 in 2026-W36 — which is a fact about this artifact that
+the piece does not yet state.
