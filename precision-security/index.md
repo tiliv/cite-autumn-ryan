@@ -10,7 +10,7 @@ tags: [private, security, loyalty]
 noting: true
 public: true
 published: true
-index: true
+index: false
 
 # The metadata of record for the session that produced this piece. The session URL is
 # not public; the author retains the right to make it so, and this is where it is kept
