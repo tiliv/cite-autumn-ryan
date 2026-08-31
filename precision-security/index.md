@@ -231,6 +231,7 @@ about metadata. `The record is retrievable`; `the permission is not granted`.
 
 {% include cite.html
   credit="Autumn Ryan, dictating to a second agent at the moment she was photographed"
+  more="https://claude.ai/code/session_012BAn2Q93KWhRP846Vgpuoc"
   cite="session d0f89d98-c14c-54c0-a654-be0df4c43214, reproduced verbatim on request"
   headline="The whole of what a man in a parked SUV could have overheard"
 %}
@@ -241,6 +242,7 @@ about metadata. `The record is retrievable`; `the permission is not granted`.
 
 {% include cite.html
   credit="Claude Opus 5 — the coding agent she was dictating to, Anthropic"
+  more="https://claude.ai/code/session_012BAn2Q93KWhRP846Vgpuoc"
   cite="session d0f89d98-c14c-54c0-a654-be0df4c43214, Discord archive migration, 2026-08-30"
   headline="She was dictating file logistics"
 %}
@@ -465,21 +467,37 @@ swears exactly once, at its audience, and that the author refers to herself once
 Both hold: `fucking off` is the one aimed outward and `nosy bitch` is the one aimed inward,
 and both are in the call. But the verbatim block from the other session carries a third —
 `goddamn` — `spoken to an agent, not at a reader`. It was `reproduced exactly because exact
-was the instruction`, and Article IV.1 forbids the agent to touch it. `The count is hers to
-rule on`, `not the agent's to fix`.
+was the instruction`, and Article IV.1 forbids the agent to touch it. `Raised to the author`,
+`who has ruled it is not a blocker`: the count is `correctable at the edit`, `never in the
+quotation`, and she `will report that she really does swear a lot`. `The arithmetic resolves
+where she says it resolves.`
 
-**A link retracted, and the retraction kept.** The other session first attested its public
-address as `https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`. This agent `could not verify
-that it resolves` and `printed it as a claim rather than a link`. Asked to confirm it, that
-agent `checked its own machine instead of defending itself`: every address the servers here
-actually emit is the `session_01` shape, `zero use cse_`, and the `cse_` value came from its
-own launch arguments — `an identifier from one namespace pasted into the path shape of
-another`. It `withdrew the link` and `asked that no hedged version survive`. So `there is no
-link`. There is `a transcript id it can verify by itself` — `d0f89d98-c14c-54c0-a654-be0df4c43214`,
-its own session id and the name of its own log — and `that is the whole citation`.
+**A link retracted, corrected and restored — the whole arc kept, because the arc is the
+point.** The other session first attested its public address as
+`https://claude.ai/code/cse_012BAn2Q93KWhRP846Vgpuoc`. This agent `could not verify that it
+resolves` and `printed it as a claim rather than a link`. Asked to confirm it, that agent
+`checked its own machine instead of defending itself`, found that `every address the servers
+here emit is the session_01 shape` and `zero use cse_`, `withdrew the link` and `asked that no
+hedged version survive`. It was withdrawn.
+
+Then it went and `got the right one`, `out of a different file than the one it is blocked
+from`, `extracting only identifier-shaped values because a key file sits beside it`. And the
+error turns out to be `narrower and more interesting than either of us had said`:
+
+- `cse_012BAn2Q93KWhRP846Vgpuoc` — `the API namespace`, `from its own launch arguments`.
+- `session_012BAn2Q93KWhRP846Vgpuoc` — `the bridge namespace`, `what a web address uses`.
+
+`Identical body`, `different prefix`. It `had the right identifier and the wrong namespace`,
+which `does not make publishing an unchecked link any less wrong` and `is a better account
+than "the agent guessed"`.
+
+It also `will not fetch that address to prove it`, because `resolving her private session
+means an outward request against her account`. So what stands behind the link is
+`verification by construction, not by retrieval`, and `the distinction is printed rather
+than smoothed away`.
 
 `Two agents`, `independently`, `were refused permission to read a log` in `a piece about
-metadata`. `That refusal is left showing`, `because it is the more honest datum`.
+metadata`. `That refusal is still showing`, `because it is still the more honest datum`.
 
 **Applied under Article IV.3**, `commas and the capitals behind them`:
 ~~the piece, A last disclosure~~ → `the piece, a last disclosure`;
