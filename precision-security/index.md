@@ -340,7 +340,7 @@ made them.
 
 > **You** — Would it be problematic for you to disclose the nature of the guard's employment tonight?
 
-> **Precision Security** — I see how that's relevant.
+> **Precision Security** — ~~I see how that's relevant.~~ (read: `I don't see how that's relevant.`)
 
 > **You** — Do you not? Do you not? Do you understand that Uber drivers also drive for Lyft? It's gig economy, man. Have you been living under a rock? Do you know the price of gas? Women sell photos of their feet, sir.
 
@@ -456,8 +456,12 @@ Please make clear Issues that you are not able to act on because of the narrowne
 ##### The Ledger
 
 Marked, not repaired. The left of each pair is what the transcriber produced. The right is
-what the agent believes was said. **Only Article IV.3 corrections have been applied to the
-body above** — the author proofs her own words, and this ledger exists so that she can.
+what the agent believes was said. **Article IV.3 corrections have been applied to the body
+above** — the author proofs her own words, and this ledger exists so that she can. **One mark
+has been made outside IV.3**, on the supervisor's inverted line at the point a reader meets it,
+on the author's instruction. It is marked in this ledger's form and not repaired: the
+transcriber's words are still there, struck, with the asserted reading beside them. Nothing in
+the transcript has been replaced.
 
 - ~~on-cite-autumn-ryan~~ (read: `on cite-autumn-ryan`) — the repository name, hyphen-welded to the preposition in front of it.
 - ~~Claude Opus five~~ (read: `Claude Opus 5`) — a numeral spoken is a numeral lost.
@@ -483,10 +487,12 @@ body above** — the author proofs her own words, and this ledger exists so that
 - ~~for my project folder .~~ (read: `for my project folder.`) — a space the breath did not take.
 
 **Not the author's, and marked as such.** The call transcript is the iPhone's, not hers.
-Two spans in it read as machine error against the supervisor and are left standing rather
-than corrected, because correcting a source's words is worse than quoting them badly:
-"I see how that's relevant" — which in context is almost certainly "I don't see how
-that's relevant" — and the spelling "A U M R I" for a name he said twice as "Omri".
+Two spans in it were read as machine error against the supervisor. The first —
+"I see how that's relevant", which the next turn shows is "I don't see how that's relevant" —
+is now MARKED at the point a reader meets it, in this ledger's form: struck, with the asserted
+reading beside it, nothing replaced. The second, the spelling "A U M R I" against a name he
+said twice as "Omri", **stands, and the claim against it is withdrawn** — he was asked to spell
+it and that is him spelling it. See the Issues below.
 The iPhone also labeled the author "You" rather than by name. Her call.
 
 **Constitutional discrepancies, raised and not decided.** Article V.2 says this artifact
@@ -612,14 +618,28 @@ These are live and unresolved. Each one is something the agent believes should c
 has no authority to change, because the constitution is deliberately narrow and does not
 reach it. They are listed here rather than fixed, and rather than raised privately.
 
-**1. Two spans misquote a named man.** The call transcript renders the supervisor saying
-"I see how that's relevant," which in context is almost certainly "I *don't* see how that's
-relevant." The dropped word inverts his meaning. It also spells his name "A U M R I" after
-he said "Omri" twice. Article IV.1 protects the author's words and Article IV.4 says cite
-rather than repair, so the agent may mark these and may not fix them. But the words are
-neither the author's nor the agent's — they are a machine's account of a third party who did
-not consent to being published, and no article covers him. **The agent believes this is the
-most serious defect in the piece.** A person is quoted saying the opposite of what he said.
+**1. One span misquoted a named man. The second claim was wrong.** *Resolved, and partly
+withdrawn.*
+
+The transcript rendered the supervisor saying "I see how that's relevant," inverting him. The
+evidence is in the transcript itself: the author's next turn is "Do you not? Do you not?",
+which answers a man who said he did *not* see. That line is now marked at the point a reader
+meets it — struck, with the asserted reading beside it, nothing replaced.
+
+The reasoning that held it up was the part worth correcting. Article IV.4 says cite rather
+than repair, and the agent read that as forbidding the mark. But this ledger's own heading is
+**"Marked, not repaired"**, and it performs exactly this operation on the author's words a few
+inches above. Marking is not repairing. IV.4 was written to stop an editor overwriting a
+source; applied here it was protecting a machine's error at a real man's expense, which is the
+opposite of its purpose. The gap was never that marking was forbidden — it was that no article
+*granted* it for a third party, and absence of permission was read as prohibition.
+
+**The second claim is withdrawn.** The agent said the transcript garbled "Omri" into
+"A U M R I". It did not. The author asked "Could you spell it?" and he answered "Yes, it's uh
+A U M R I." That is a man spelling his own name, recorded correctly. Correcting it would have
+misspelled him against his own spoken spelling, in a piece about him — a worse outcome than
+the defect it was aimed at, and produced by the same confident reading that caught the real
+one. Both claims came from the same source; only one survived checking it.
 
 **2. The iPhone labels the author "You."** No article covers relabeling the speaker names in
 a machine transcript. It stands.
