@@ -1,0 +1,13 @@
+Cyberwar in Practice takes the local one, and Flock is where it lands
+
+The stub was a bullet list of the global layer — dns, root stores, routing tables. Those bullets stay. What is added underneath them is the turn this piece actually wants to make: I would like to be writing the global one, but this is the local one, and the place I want to focus it is Flock Safety.
+
+**Why here and not in the Flock piece.** There is already a short Flock notice in the journal. It is really not the kind of thing I write — it is a notice, it does its job, and it should stay small. The bigger argument is a cyberwar argument, so it belongs in this piece.
+
+**What the notes say.** Flock gives one product away so it can sell the next one. The department tries it, likes it, keeps it. The thing to say out loud is that it is designed to compound: a camera at virtually every intersection is a positioning system, static in most of it and moving in some of it, sitting underneath the drones the same company gave the city. The cameras that come after that can be built to guide the drones as well as watch us. What gets built is a net overhead that is there specifically to observe us, and it does not stay digital. Then our governments read the constitution documents that govern how those agents behave, find our oppression written out in plain language, and nod, because nobody is brave enough to say no to a tech company.
+
+**On the ground** is stubbed as the section that ends up encompassing all of it — triple header, quadruple headers underneath, as many as it takes. Its subsections are left unnamed on purpose; that is your call, not mine, so it carries a single TODO line.
+
+Verified: the file still parses as front matter plus body, the existing bullets are untouched, and the headers are `###` / `####` only, matching the rest of the journal. `index: false` is unchanged, so this stays unlisted while it is a draft.
+
+Left undone deliberately: no new links or citations were added, and nothing was moved out of the Flock piece.
