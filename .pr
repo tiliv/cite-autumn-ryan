@@ -1,16 +1,1 @@
-Renumber the ranks onto a grid of tens
-
-Every piece keeps the position it already had. Only the numbers change, and only the `rank:` line in each file — the diff is 46 lines across 46 files and contains nothing else.
-
-**The method.** Your 31 distinct rank levels were re-spaced onto multiples of ten in their existing order, anchored so that 0 stays 0. The scale now runs -190 at the top to 110 at the bottom. Ties stayed ties: `Halfway-Democracy`/`Halfway-Authority` are still one level, `Park-Mobile`/`Location-Awareness` are still one level, and the date sort still breaks them the way it did before. Nothing reorders.
-
-The point of the gaps is room. There are now nine free integers between any two neighbours, so a piece can be slotted between without touching anything around it.
-
-**`Cyberwar-in-Practice` is deliberately untouched here.** Its rank is being set by #4, which takes it to -200 — below this scale's floor of -190, so it lands on top under either numbering and in either merge order. That also keeps these two PRs from colliding on the same line, so you can take one and sit on the other.
-
-Verified: the ordering before and after is identical piece-for-piece; the engine sorts `journal | sort: "date" | sort: "rank"` ascending in `.journal-engine/skel/index.md`, and rank appears nowhere else in the engine or in civic-node — no thresholds keyed to a specific number.
-
-**Two things noticed while reading every front matter. Neither is fixed here, because both are yours to decide:**
-
-- `Millennial-Fair` has `noting: false`. The lists are built with `p.noting == null` and `p.noting == true`, so `false` matches neither and the piece renders in **neither column**. It is `public: true, published: true, index: true`, so I think it is meant to be visible. Deleting the line entirely would put it in the journal list; `noting: true` would put it with the notings.
-- `Hierarchy-of-Concerns` has no `author`, `author_email`, `public` or `published`, so it is also in neither list — but it holds -190, the top of the scale. That is fine as a reservation if it is intentional, worth knowing if it is not. Its title also uses curly quotes where the rest of the journal uses straight ones.
+no draft yet - replace this file: line 1 becomes the PR title, the rest the body
