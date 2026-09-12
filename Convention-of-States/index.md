@@ -1,6 +1,6 @@
 ---
 date: 2026-04-09
-rank: -27
+rank: -150
 title: "NOTING: Convention of States"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

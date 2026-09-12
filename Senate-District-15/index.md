@@ -1,6 +1,6 @@
 ---
 date: 2026-01-07
-rank: -7
+rank: -70
 title: "LIVE: Senate District 15"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

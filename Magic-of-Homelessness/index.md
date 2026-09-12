@@ -1,6 +1,6 @@
 ---
 date: 2026-01-07
-rank: -6
+rank: -60
 title: "LIVE: Magic of Homelessness"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

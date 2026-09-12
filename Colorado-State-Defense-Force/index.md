@@ -1,6 +1,6 @@
 ---
 date: 2025-12-14
-rank: -6
+rank: -60
 title: "NOTING: Colorado State Defense Force"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

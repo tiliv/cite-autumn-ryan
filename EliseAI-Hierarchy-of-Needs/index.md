@@ -1,6 +1,6 @@
 ---
 date: 2025-10-16
-rank: -1
+rank: -10
 title: "EliseAI's Hierarchy of Needs"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

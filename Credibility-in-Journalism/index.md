@@ -1,6 +1,6 @@
 ---
 date: 2025-10-01
-rank: 1
+rank: 10
 title: "Credibility in Journalism"
 re: https://coloradomedia.substack.com/p/citizen-journalism-is-on-the-hot
 author: Autumn Ryan

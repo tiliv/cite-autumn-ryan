@@ -1,6 +1,6 @@
 ---
 date: 2025-09-06
-rank: 3
+rank: 30
 title: "NOTING: Colorado Space Force"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

@@ -1,6 +1,6 @@
 ---
 date: 2025-11-19
-rank: 50
+rank: 110
 title: "NOTING: Adventure Guide"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

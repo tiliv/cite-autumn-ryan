@@ -1,6 +1,6 @@
 ---
 date: 2026-08-30
-rank: -50
+rank: -180
 title: "NOTING: Precision Security"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

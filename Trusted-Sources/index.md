@@ -1,6 +1,6 @@
 ---
 date: 2025-10-14
-rank: 1
+rank: 10
 title: "LIVE: Trusted Sources"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
