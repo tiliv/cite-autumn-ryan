@@ -1,6 +1,6 @@
 ---
 date: 2025-09-12
-rank: -99
+rank: -200
 title: "NOTING: Cyberwar in Practice"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
