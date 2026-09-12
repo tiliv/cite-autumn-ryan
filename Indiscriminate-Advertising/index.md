@@ -1,5 +1,5 @@
 ---
-rank: 1
+rank: 10
 title: "NOTING: Indiscriminate Advertising"
 date: 2025-11-30
 author: Autumn Ryan

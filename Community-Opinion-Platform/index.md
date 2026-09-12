@@ -1,6 +1,6 @@
 ---
 date: 2025-09-07
-rank: 25
+rank: 80
 title: "FC Community Opinion Platform"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

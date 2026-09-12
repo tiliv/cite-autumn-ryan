@@ -1,6 +1,6 @@
 ---
 date: 2025-08-30
-rank: 3
+rank: 30
 title: "NOTING: Flock surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

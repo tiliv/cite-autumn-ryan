@@ -1,6 +1,6 @@
 ---
 date: 2025-08-31
-rank: 20
+rank: 70
 title: "Location and People"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

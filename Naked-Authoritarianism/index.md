@@ -1,6 +1,6 @@
 ---
 date: 2025-09-18
-rank: -8
+rank: -80
 title: "NOTING: Naked Authoritarianism"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

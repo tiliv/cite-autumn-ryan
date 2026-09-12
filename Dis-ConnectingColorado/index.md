@@ -1,6 +1,6 @@
 ---
 date: 2025-12-05
-rank: -26
+rank: -140
 title: "NOTING: Dis-ConnectingColorado"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

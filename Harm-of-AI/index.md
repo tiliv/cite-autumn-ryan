@@ -1,6 +1,6 @@
 ---
 date: 2025-11-15
-rank: -28
+rank: -160
 title: "NOTING: Harm of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

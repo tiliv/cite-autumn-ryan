@@ -1,6 +1,6 @@
 ---
 date: 2026-01-04
-rank: -7
+rank: -70
 title: "Tranquilizer Journalism"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

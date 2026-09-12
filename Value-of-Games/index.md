@@ -1,6 +1,6 @@
 ---
 date: 2025-09-11
-rank: -22
+rank: -130
 title: "NOTING: Value of Video Games"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

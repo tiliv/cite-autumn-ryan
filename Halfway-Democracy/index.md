@@ -1,6 +1,6 @@
 ---
 date: 2025-09-01
-rank: 10
+rank: 60
 title: "Halfway Democracy"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

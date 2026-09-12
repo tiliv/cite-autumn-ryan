@@ -1,6 +1,6 @@
 ---
 date: 2025-12-12
-rank: -4
+rank: -40
 title: "LIVE: Love An Artist"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

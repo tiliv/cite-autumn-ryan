@@ -1,6 +1,6 @@
 ---
 date: 2025-09-12
-rank: -20
+rank: -110
 title: "NOTING: The Network State"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

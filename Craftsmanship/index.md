@@ -1,6 +1,6 @@
 ---
 date: 2026-04-03
-rank: -21
+rank: -120
 title: "NOTING: Craftsmanship"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

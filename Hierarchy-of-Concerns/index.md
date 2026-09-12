@@ -1,6 +1,6 @@
 ---
 title: “NOTING: Hierarchy of Concerns”
-rank: -55
+rank: -190
 tags: [local, needs, network]
 ---
 ### Landings Park
