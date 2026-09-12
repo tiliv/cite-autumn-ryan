@@ -1,1 +1,15 @@
-no draft yet - replace this file: line 1 becomes the PR title, the rest the body
+Cyberwar in Practice: they will arm it, and a department can accept a gift
+
+Three sections added to the notes, between the compounding argument and `On the ground`. No content removed, rank and front matter untouched.
+
+**`The parts were supposed to be inert`** is the framing correction, and it is placed before the rest because it defends the compounding argument from sounding naive. Saying these systems will be used together is nearly saying "did you not think about that?" — and they did. Thinking about it is the product. The thesis now is how much can be done with parts that each arrive innocuous, individually defensible, seemingly inert, and together do more to betray us than any of them alone.
+
+**`They will arm it, and we will be shown the arithmetic`** — military applications already exist, lethal force on these drones will not take long, and the argument is pre-written: the one who got away before an officer could arrive is the one who could have been neutralized. If it only gets one more, it was worth mounting the gun. Then sonic weapons, and the real method underneath it: they are finding the line by applying pressure until we scream loudly enough. The line is not a principle, it is where we finally made too much noise.
+
+**`A police department can accept a gift`** — not only that we should be angry about surveillance, but that our cities and departments can accept gifts from private entities at all. And when councils ask questions about them, the police get angry. Already happening, already interesting.
+
+**One thing to check.** You called it "that gunshot technology" and I did not put the vendor name in — the line reads "the gunshot detection contracts," which stays true whether you mean ShotSpotter/SoundThinking or the category. Name it if you want it named; I would rather you pick the word than inherit mine.
+
+Verified: headers are `###` only, matching the piece and the journal; the existing bullets, the global/local turn, and `On the ground` are unchanged and still in that order.
+
+Branched fresh from `main` after #4 and #5 merged.
