@@ -1,0 +1,30 @@
+[submodule "Brookfield-Properties"]
+	path = Brookfield-Properties
+	url = https://github.com/tiliv/cite-autumn-ryan-brookfield-properties
+[submodule "Credibility-in-Journalism"]
+	path = Credibility-in-Journalism
+	url = https://github.com/tiliv/cite-autumn-ryan-credibility-in-journalism
+[submodule "EliseAI-Hierarchy-of-Needs"]
+	path = EliseAI-Hierarchy-of-Needs
+	url = https://github.com/tiliv/cite-autumn-ryan-eliseai-hierarchy-of-needs
+[submodule "Flock-Safety"]
+	path = Flock-Safety
+	url = https://github.com/tiliv/cite-autumn-ryan-flock-safety
+[submodule "Impact-of-AI"]
+	path = Impact-of-AI
+	url = https://github.com/tiliv/cite-autumn-ryan-impact-of-ai
+[submodule "Network-State"]
+	path = Network-State
+	url = https://github.com/tiliv/cite-autumn-ryan-network-state
+[submodule "Park-Mobile"]
+	path = Park-Mobile
+	url = https://github.com/tiliv/cite-autumn-ryan-park-mobile
+[submodule "Personalized-Plus"]
+	path = Personalized-Plus
+	url = https://github.com/tiliv/cite-autumn-ryan-personalized-plus
+[submodule "Universal-Music-Group"]
+	path = Universal-Music-Group
+	url = https://github.com/tiliv/cite-autumn-ryan-universal-music-group
+[submodule "Verra-Mobility"]
+	path = Verra-Mobility
+	url = https://github.com/tiliv/cite-autumn-ryan-verra-mobility
